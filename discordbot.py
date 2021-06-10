@@ -21,6 +21,8 @@ async def ping(ctx):
 @bot.command()
 async def にゃん(ctx):
     await ctx.send('ちゅう')
+    
+    
 
 
 bot.run(token)
